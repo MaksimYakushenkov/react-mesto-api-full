@@ -5,5 +5,4 @@
 ## Сервер развёрнут в облаке Яндекса - ОС ubuntu 20.4 с публичным IPv4 адресом: 51.250.2.131.
 ## Запросы к API можно осуществлять по адресу api.thebestfront.nomoredomains.sbs.nomoredomains.sbs
 
-## Чтобы подключиться к серверу нжуно ввести команду: ssh maxim@51.250.2.131
 ## Ссылка на сайт [Проект «Место»](https://thebestfront.nomoredomains.sbs)
